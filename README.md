@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own company
-- 🌱 I’m currently pursuing a Ph.D. in Computing
+- 🌱 I’m currently pursuing a Ph.D. in Computer Science
 - 👯 I’m looking to collaborate on AI research
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
