@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Apri Junaidi (APJ)
+### Hi there 👋 I'm Apri Junaidi
 
 I am a **Ph.D. candidate in Computer Science** at the Faculty of Computing, **Universiti Teknologi Malaysia (UTM)**, Johor Bahru, where I also work as a **Research Assistant**. My research is about computer vision for agriculture: building **efficient deep-learning detectors for plant disease** that can run on **resource-constrained edge devices** in the field.
 
@@ -37,7 +37,9 @@ I am a **Ph.D. candidate in Computer Science** at the Faculty of Computing, **Un
 
 I also run workshops and training programmes in computer vision in Malaysia and Indonesia.
 
-### 📫 Contact
+### 📫 Contact and profiles
 
 - ✉️ Email: [apri.junaidi@gmail.com](mailto:apri.junaidi@gmail.com)
 - 🆔 ORCID: [0000-0001-9465-0810](https://orcid.org/0000-0001-9465-0810)
+- 🎓 Google Scholar: [Apri Junaidi](https://scholar.google.com/citations?hl=en&user=SMhndc8AAAAJ)
+- 📊 Scopus Author ID: [57220350100](https://www.scopus.com/authid/detail.uri?authorId=57220350100)
